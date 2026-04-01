@@ -59,25 +59,25 @@ QUEUE_URL = "YOUR_SQS_QUEUE_URL"
 
 ### Lambda Trigger
 
-![Lambda](screenshots/lambda-trigger.png)
+![Lambda](screenshots/LAMBDA.jpeg)
 
 ---
 
 ### SQS Message Sent
 
-![SQS](screenshots/sqs-send-message.png)
+![SQS](screenshots/QUEUE SEND MESSAGE.png)
 
 ---
 
 ### CloudWatch Logs (Retry Execution)
 
-![Logs](screenshots/cloudwatch-retry-logs.png)
+![Logs](screenshots/CLOUDWATCH LOGS.png)
 
 ---
 
 ### IAM Permissions
 
-![IAM](screenshots/iam-permissions.png)
+![IAM](screenshots/IAM ROLE.png)
 
 ---
 
