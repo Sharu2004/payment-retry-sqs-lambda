@@ -65,19 +65,19 @@ QUEUE_URL = "YOUR_SQS_QUEUE_URL"
 
 ### SQS Message Sent
 
-![SQS](screenshots/QUEUE SEND MESSAGE.png)
+![SQS](screenshots/QUEUE.png)
 
 ---
 
 ### CloudWatch Logs (Retry Execution)
 
-![Logs](screenshots/CLOUDWATCH LOGS.png)
+![Logs](screenshots/CLOUDWATCHLOGS.png)
 
 ---
 
 ### IAM Permissions
 
-![IAM](screenshots/IAM ROLE.png)
+![IAM](screenshots/IAMROLE.png)
 
 ---
 
